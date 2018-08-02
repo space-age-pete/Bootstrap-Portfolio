@@ -1,0 +1,32 @@
+.mr-auto, .mx-auto {
+    margin-left: auto!important;
+    margin-right:0!important;
+}
+
+
+body{
+    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/rjHekdYmiotpjnrc/videoblocks-drop-of-black-ink-ink-splatter-on-white-background-black-splash-expanding-on-white-paper-backdrop-with-texture-horizontal-hd-ink-drips-and-splatter-video_h6gyfww1b_thumbnail-full01.png");
+    background-color: lightgrey;
+}
+
+form {
+    background-color: white;
+    margin-top: 20px;
+    padding: 25px;
+}
+
+h1 {
+    margin-bottom:25px;
+}
+
+.col-sm, .col-sm-8{
+    background-color: white;
+}
+
+.container{
+    margin-top: 30px;
+}
+
+.row{
+    margin-top: 15px;;
+}
